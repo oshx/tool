@@ -1,0 +1,11 @@
+html,body,div,textarea{margin:0;padding:0}html,body{width:100%;height:100%;overflow:hidden}.svg_field{width:100%;height:50%;font:14pxmonospace,sans-serif;background-color:#000;color:#0f0;}.svg_preview{width:100%;height:50%;overflow:auto}
+.svg_iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
