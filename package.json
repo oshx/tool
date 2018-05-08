@@ -1,0 +1,38 @@
+{
+  "name": "tool",
+  "version": "0.0.1",
+  "description": "Tools for my self",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "handlebars-loader": "^1.7.0",
+    "jquery": "^1.12.4",
+    "webpack": "^1.12.15"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-register": "^6.26.0",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshx/tool.git"
+  },
+  "keywords": [
+    "Tool"
+  ],
+  "author": "오승환",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/oshx/tool/issues"
+  },
+  "homepage": "https://github.com/oshx/tool#readme"
+}
